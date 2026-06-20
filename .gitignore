@@ -26,9 +26,7 @@
 *.a
 
 # Executables
-*.exe
+
 *.out
 *.app
 /.vs
-/cs2/x64
-/x64
